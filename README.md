@@ -111,6 +111,6 @@ Possible values of parameter 'affinity' are: 'cosine_similarity',
 
 ## Contact
 
-Feel free to open an issue in Github or contact liangqs@tongji.edu.cn or qiusliang2-c@my.cityu.edu.hk if you have any problem in using TEC-O and TEC-U.
+Feel free to open an issue in Github or contact liangqs@tongji.edu.cn or qiusliang2-c@my.cityu.edu.hk if you have any problem in using TEC-O or TEC-U.
 
  
